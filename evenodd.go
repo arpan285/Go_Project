@@ -8,7 +8,7 @@ func main() {
 
 	fmt.Printf("Enter a nuber: ")
 	fmt.Scanf("%v", &a)
-	//fmt.Println("Your numbers is:", a)
+	fmt.Println("Your numbers is:", a)
 
 	/*for i := 0; i < a; i++ {
 		if i%2 == 0 {
